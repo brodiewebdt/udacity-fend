@@ -1,0 +1,14 @@
+:root {
+  /* Primary Colors */
+  --brand-primary: hsl(179, 81%, 29%);
+  --hover-primary: hsl(179, 55%, 61%);
+  --brand-secondary: hsl(215, 19%, 25%);
+  --brand-tertiary: hsl(25, 94%, 86%);
+  /* Neutral Colors */
+  --color-light-cream: hsl(43, 78%, 98%);
+  --color-grey: hsl(215, 5%, 54%);
+  --color-neutral-grey: hsl(0, 0%, 59%);
+  --color-disabled: hsl(220, 5%, 77%);
+  /* Error Color */
+  --error-red: hsl(0, 43%, 50%);
+}
